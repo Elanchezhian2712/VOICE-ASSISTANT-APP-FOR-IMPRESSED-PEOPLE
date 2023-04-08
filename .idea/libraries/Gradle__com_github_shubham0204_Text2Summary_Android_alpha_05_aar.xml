@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.shubham0204:Text2Summary-Android:alpha-05@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a96711dca88d106e3bd7693ba0c483b9/jetified-Text2Summary-Android-alpha-05/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/277cce087c5f9d641ced2ab956b57d00/jetified-Text2Summary-Android-alpha-05/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0caa1936562167135ba2ed2f845319f9/jetified-Text2Summary-Android-alpha-05/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/277cce087c5f9d641ced2ab956b57d00/jetified-Text2Summary-Android-alpha-05/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/277cce087c5f9d641ced2ab956b57d00/jetified-Text2Summary-Android-alpha-05/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.shubham0204/Text2Summary-Android/alpha-05/b2c0165740048bc3a35cb711e3fb2202267c16b8/Text2Summary-Android-alpha-05-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

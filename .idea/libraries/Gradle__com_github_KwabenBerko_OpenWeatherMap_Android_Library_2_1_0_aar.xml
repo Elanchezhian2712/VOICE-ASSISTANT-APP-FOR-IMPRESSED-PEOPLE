@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.KwabenBerko:OpenWeatherMap-Android-Library:2.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/571e3bb12b9968dcf1d6924908863423/jetified-OpenWeatherMap-Android-Library-2.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/571e3bb12b9968dcf1d6924908863423/jetified-OpenWeatherMap-Android-Library-2.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/571e3bb12b9968dcf1d6924908863423/jetified-OpenWeatherMap-Android-Library-2.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.KwabenBerko/OpenWeatherMap-Android-Library/2.1.0/e57484bbe46c22e49f39253455019a35e57f7a28/OpenWeatherMap-Android-Library-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

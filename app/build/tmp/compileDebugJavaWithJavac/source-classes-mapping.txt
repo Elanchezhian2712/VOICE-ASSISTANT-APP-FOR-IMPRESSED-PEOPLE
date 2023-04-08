@@ -1,0 +1,29 @@
+com/example/googleassistant/BR.java
+ com.example.googleassistant.BR
+com/example/googleassistant/data/AssistantDao_Impl.java
+ com.example.googleassistant.data.AssistantDao_Impl
+ com.example.googleassistant.data.AssistantDao_Impl$1
+ com.example.googleassistant.data.AssistantDao_Impl$2
+ com.example.googleassistant.data.AssistantDao_Impl$3
+ com.example.googleassistant.data.AssistantDao_Impl$4
+com/example/googleassistant/data/AssistantDatabase_Impl.java
+ com.example.googleassistant.data.AssistantDatabase_Impl
+ com.example.googleassistant.data.AssistantDatabase_Impl$1
+com/example/googleassistant/DataBindingTriggerClass.java
+ com.example.googleassistant.DataBindingTriggerClass
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/example/googleassistant/databinding/ActivityAssistantBindingImpl.java
+ com.example.googleassistant.databinding.ActivityAssistantBindingImpl
+com/example/googleassistant/databinding/ActivityAssistantBinding.java
+ com.example.googleassistant.databinding.ActivityAssistantBinding
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/example/googleassistant/DataBinderMapperImpl.java
+ com.example.googleassistant.DataBinderMapperImpl
+ com.example.googleassistant.DataBinderMapperImpl$InnerBrLookup
+ com.example.googleassistant.DataBinderMapperImpl$InnerLayoutIdLookup
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/example/googleassistant/BuildConfig.java
+ com.example.googleassistant.BuildConfig
