@@ -1,6 +1,6 @@
 # VOICE-ASSISTANT-APP-FOR-VISUALLY-IMPRESSED-PEOPLE
 
-**Description:**__
+_**Description:**_
 Welcome to the forefront of innovation where VisionVoice emerges as a pioneering force, dedicated to enhancing the digital experience for individuals with visual impairments. Our revolutionary voice assistant apps redefine accessibility, offering a seamless and empowering way to navigate the digital landscape, breaking down barriers for those who face challenges due to visual limitations.
 
 _**Key Features:**_
